@@ -1,0 +1,1 @@
+1. [AWS Backup adds support for SNS notifications and EventBridge events for backup indexes](https://aws.amazon.com/id/about-aws/whats-new/2025/06/aws-backup-sns-notifications-eventbridge-backup-indexes/)
