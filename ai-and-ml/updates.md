@@ -1,0 +1,1 @@
+1. [Introducing agentic capabilities for Amazon Q Developer Chat in the AWS Management Console and chat applications](https://aws.amazon.com/id/about-aws/whats-new/2025/06/agentic-capabilities-amazon-q-developer-chat-aws-management-console-chat-applications/)
