@@ -1,1 +1,2 @@
 - [Autonomous System Number (ASN) match rule statement](https://docs.aws.amazon.com/waf/latest/developerguide/waf-rule-statement-type-asn-match.html)
+- [AWS WAF now supports automatic application layer distributed denial of service (DDoS) protection](https://aws.amazon.com/id/about-aws/whats-new/2025/06/aws-waf-automatic-application-layer-ddos-protection/)
